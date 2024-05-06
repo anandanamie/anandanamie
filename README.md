@@ -1,7 +1,7 @@
 <h1 align="center">hi! i'm ananda namie :)</h1>
 <h3 align="center">a passionate software engineering student from brazil</h3>
 
-- 🌱 i’m currently watching **CS50** classes
+- 🌱 currently watching **CS50** classes
 
 - 📫 how to reach me: **raspberrystardustie@gmail.com**
 
