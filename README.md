@@ -1,13 +1,10 @@
 <h1 align="center">hi! i'm ananda namie :)</h1>
 <h3 align="center">a passionate software engineering student from brazil</h3>
 
-- 🌱 currently watching **CS50** classes
-
 - 📫 how to reach me: **raspberrystardustie@gmail.com**
 
 <h3 align="left">connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/raspberriews" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raspberriews" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anandanamie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anandanamie" height="30" width="40" /></a>
 </p>
 
