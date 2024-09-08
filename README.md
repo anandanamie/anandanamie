@@ -33,6 +33,7 @@
     │   ├── astronomy
     │   ├── physics
     │   ├── digital sketching
+    │   ├── animation
     │   └── languages
     │
     └── /learning
