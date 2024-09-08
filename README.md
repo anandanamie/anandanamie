@@ -34,7 +34,7 @@
     │   ├── physics
     │   ├── digital sketching
     │   ├── animation
-    │   └── languages
+    │   └── languages (russian)
     │
     └── /learning
         └──  ai, cloud, data
