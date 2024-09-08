@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td style="width: 50%;">
-      <img src="image.jpg" alt="Ai Hoshino" style="width: 200%; border: none;">
+      <img src="image.jpg" alt="Ai Hoshino" style="width: 300px; border: none;">
     </td>
 
 <td style="width: 50%; vertical-align: top;">
