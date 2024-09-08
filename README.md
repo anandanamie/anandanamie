@@ -12,7 +12,7 @@
     │   ├── she/they - brazilian - (pt/br + en + jp)
     │   ├── software engineering student
     │   │   └── at unicesumar.edu.br
-    │   ├── intern
+    │   └── intern
     │       └── at ibm.com
     │
     ├── /os
@@ -31,6 +31,7 @@
     ├── /hobbies
     │   ├── astronomy
     │   ├── physics
+    │   └── languages
     │
     └── /learning
         └──  ai, cloud, data
