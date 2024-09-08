@@ -18,7 +18,7 @@
     ├── /os
     │   ├── /linux
     │   │   └── mint (main)
-    │   └── /windows
+    │   ├── /windows
     │   │   └── windows 10
     │   └── /ios
     │       └── at work
