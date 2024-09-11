@@ -20,7 +20,7 @@
     │   │   └── mint (main)
     │   ├── /windows
     │   │   └── windows 10
-    │   └── /ios (work)
+    │   └── /macOS (work)
     │
     ├── /interests
     │   ├── html
