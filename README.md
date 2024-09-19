@@ -11,7 +11,6 @@
     ├── /bio
     │   ├── she/they - brazilian - (pt/br + en + jp)
     │   ├── software engineering student
-    │   │   └── at unicesumar.edu.br
     │   └── intern
     │       └── at ibm.com
     │
