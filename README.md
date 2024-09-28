@@ -26,7 +26,7 @@
     │   ├── css
     │   ├── javascript
     │   ├── ux/ui design
-    │   └── c++ | unreal
+    │   └── c++ & unreal
     │
     ├── /hobbies
     │   ├── astronomy
